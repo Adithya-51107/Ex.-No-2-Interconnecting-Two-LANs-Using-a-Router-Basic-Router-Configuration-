@@ -1,4 +1,3 @@
-# Date :
 ## Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
 
 
@@ -54,17 +53,17 @@ ________________________________________
 # Output (Screenshots)
 •	Router CLI configuration<br>
 
-<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/054f2f21-ef38-492e-a66c-2fca4662d9b5" />
+<img width="873" height="880" alt="image" src="https://github.com/user-attachments/assets/9b11d973-9d6f-4962-a0ba-a988da8e2e9c" />
 
 •	IP configurations on PCs<br>
 
-<img width="1600" height="897" alt="image" src="https://github.com/user-attachments/assets/597a557f-85ee-438a-9d84-54c7fdba535c" />
-<img width="1600" height="903" alt="image" src="https://github.com/user-attachments/assets/47d178c8-40b3-4337-9835-70fcd7b4872b" />
+<img width="890" height="892" alt="image" src="https://github.com/user-attachments/assets/95119232-2ca4-4d86-9ba0-1d94644111e9" />
+<img width="887" height="902" alt="image" src="https://github.com/user-attachments/assets/cce6f377-6763-4e58-8e7d-8d147666949f" />
 
 •	Successful ping between PC0 and PC1<br>
 
-<img width="1600" height="902" alt="image" src="https://github.com/user-attachments/assets/00971844-dc34-4cdf-9c01-3c046e643b84" />
-<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/b9ebd20e-328f-4c30-924b-8deb55414fd5" />
+<img width="1917" height="958" alt="image" src="https://github.com/user-attachments/assets/649b1391-b67e-45b2-ab0f-901a82ca83d8" />
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/020d3752-9f5a-4729-aaa5-7fac8619f8f5" />
 
 ________________________________________
 # Result
